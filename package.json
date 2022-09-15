@@ -4,7 +4,6 @@
 "deion": "API para validar cpf",
 "author": "First Last <first.last@example.com>", "main": "server.js",
 
- 5
 "s": {
 "start": "node server.js"
 }, "dependencies": {
