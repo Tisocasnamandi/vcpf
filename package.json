@@ -1,0 +1,13 @@
+{
+"name": "vcpf",
+"version": "1.0.0",
+"deion": "API para validar cpf",
+"author": "First Last <first.last@example.com>", "main": "server.js",
+
+ 5
+"s": {
+"start": "node server.js"
+}, "dependencies": {
+"express": "^4.16.1",
+"validar-cpf": "^2.0.4" }
+}
